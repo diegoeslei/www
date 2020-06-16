@@ -4,8 +4,7 @@ date: 2020-06-09T12:14:34+06:00
 description: "This is meta description."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Qori cuenta con profesionales con una doble competencia, lingüística y profesional. Contamos con la colaboración de diplomados o licenciados con un absoluto dominio de su idioma materno, con sólidos conocimientos en el área técnica de la cual deberán traducir determinado documento.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Nuestros traductores comerciales poseen excelentes aptitudes de redacción y además conocen el mundo de la empresa en general. A veces, el mensaje que el empresario desea hacer llegar de un idioma a otro cambia de sentido. Qori adapta el mensaje de acuerdo a las necesidades de nuestros clientes, consciente de lo que desea comunicar la empresa al cliente final. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
